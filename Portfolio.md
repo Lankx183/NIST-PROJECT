@@ -20,6 +20,7 @@
         </p>
         <h2>Personal Contributions</h2>
         <h3>Meeting Minutes</h3>
+        <p>I have punctually attended all teh meetings and recorded important details being discussed during those meetings. The recorded meeting minutes provided a rundown of the overall progress of the project, the doubts that need to be cleared, overall project direction, updates as well as feedback. The meeting minutes have played an important role in planning weekly activities, setting out immediate targets as well as removing blockers in the project development.</p>
         <h3>NIST Questionnaire Document</h3>
         <h3>Showcase Contributions</h3>
         <h3></h3>
