@@ -10,7 +10,7 @@
             <li>Strong computer skills with intermediate expertise over various IT systems, Cyber Security Practices, MS office, Networking, programming and report writing.</li>            
         </ul>
         <h2>Assertion</h2>
-        <p>My contribuiton to the project were mainly in documentation, planning, scripting and recording meeting minutes.</p>
+        <p>My contribuiton to the project were mainly in documentation, planning, scripting and recording meeting minutes. Through my contribution directly towards the NIST questionnaire which is the analytical backbone of the whole project. This Questionnaire would form the content that is entered into the proposed web application. I have also recorded Meeting Minutes and contributing towards writing the script for the  showcase. The meeting minutes kept a record of all the discussion during the weekly meeting while keeping  immediate </p>
         <p></p>
     </body>
 </html>
