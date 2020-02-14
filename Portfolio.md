@@ -21,9 +21,13 @@
         <h2>Personal Contributions</h2>
         <h3>Meeting Minutes</h3>
         <p>I have punctually attended all the meetings and recorded important details being discussed. The recorded meeting minutes provided a rundown of the overall progress of the project, the doubts that need to be cleared, overall project direction, updates as well as feedback. The meeting minutes have played an important role in planning weekly activities, setting out immediate targets as well as removing blockers in the project development.</p>
+        <ul>
+            <li><a href = "https://teams.microsoft.com/l/channel/19%3A083bb410c7b54405aa510e355204da69%40thread.skype/tab%3A%3Ad7d9fcb8-0eab-43e6-b45c-113431e5c4e3?groupId=9b3f6292-dea5-4167-9bdb-56c751f5b0a3&tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6">Meeting Minutes</a></li>
+        </ul>
         <h3>NIST Questionnaire Document</h3>
         <p>I wrote and reviewed several sections of the questionnaire document particularly in the project category. The questionnaire is the analytical backbone of the project. The questions were formulated to be a high level overview of different requirements that need to be fulfilled to satisfy a particular sub-category at different levels of efficiency. This is the client facing side of the application and the client responses will be essential to understaning their security posture. I and the rest of our team tried to formulate it in a way that its a high level overview while not compromising on important details on how to satisfy a sub-category requirements. It was important to keep the document clear, concise and to the point in order to correctly and efficiently capture the clients' cyber-security profile.The Questionnaire is not final and after the last review improvements were suggested to make it more accesible and implement some corrections.</p>
-        <h3>Showcase Contributions</h3>
+        <h3>Showcase Contributions and Guide Template</h3>
+        <p>Contributed towards writing a script for the showcase as well as other details such as orders and artefacts to be presented in the showcase. I also prepared a guide template for the different questionnaire sections. These guides contain additional information about the controls and subcategories being assessed in the questionnaire document that clients can refer to for free.</p>
         <h3></h3>
     </body>
 </html>
