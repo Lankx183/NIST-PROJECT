@@ -35,8 +35,6 @@
         <h3>Miscellenous Contributions, Worklog and Evidence</h3>
         <p>I have also made various contributions towards the project by guiding the junior team members to best achieve their goals. I have also created a manual for the web application but there was a conscious decision from the team to exclude it from the final project showcase and submission at this stage.This section also contains various pieces of evidences and artefacts produced throughout the sprints.</p>
         <figure><img src = "Evidence/Evidence1.jpg"><figcaption><b>Clockify Summary Report</b></figcaption></figure>
-        <iframe src="https://web.microsoftstream.com/video/d16fbc8a-5285-4655-8f87-10e9b7f4e696"></iframe>
-        
-        
+        <iframe src="https://web.microsoftstream.com/video/d16fbc8a-5285-4655-8f87-10e9b7f4e696"></iframe>       
     </body>
 </html>
