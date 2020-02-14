@@ -9,7 +9,6 @@
             <li>I have a good academic record of working with a group and individually to complete various projects across different subjects.</li>
             <li>Strong computer skills with intermediate expertise over various IT systems, Cyber Security Practices, MS office, Networking, programming and report writing.</li>            
         </ul>
-        <h2>Project Assets</h2>
         <h2>Assertion</h2>
         <p>My contribuiton to the project were mainly in documentation, planning, scripting and recording meeting minutes.</p>
         <p></p>
