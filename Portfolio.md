@@ -12,6 +12,11 @@
         <h2>Assertion</h2>
         <p>My contribuiton to the project were mainly in documentation, planning, scripting and recording meeting minutes. Through my contribution directly towards the NIST questionnaire which is the analytical backbone of the whole project. This Questionnaire would form the content that is entered into the proposed web application. I have also recorded Meeting Minutes and contributing towards writing the script for the  showcase. The meeting minutes kept a record of all the discussion during the weekly meeting while keeping notes of the immediate sprint goals.
         </p>
-        <p></p>
+        <h2>Introduction</h2>
+        <p>The core of this project is the NIST questionnaire that will be delivering a maturity-based assessment model. The questionnaire will be validated though many tests on Deakin departments and a select few businesses. There will be supplementary guides to enable business to access generic information on the controls required to uplift in certain NIST categories. The Questionnaire and guides are made in a way that it can be easily transformed to work with existing infrastructure and systems.
+        </p>
+        <p>
+        The goal of our project was to remove the high price of entry for a professional services aimed towards mid-scale Australian businesses. As a result of Deakin running with the project, better equipped cyber security professionals will be graduating, and businesses will benefit from quality and affordable consultations. 
+        </p>
     </body>
 </html>
