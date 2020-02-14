@@ -32,6 +32,8 @@
         <h3>Showcase Contributions and Guide Template</h3>
         <p>Contributed towards writing a script for the showcase as well as other details such as orders and artefacts to be presented in the showcase. I also prepared a guide template for the different questionnaire sections. These guides contain additional information about the controls and subcategories being assessed in the questionnaire document that clients can refer to for free.</p>
         <ul><li><a href = "https://teams.microsoft.com/l/file/5CD51658-3B9B-4D00-A10B-A7D2C7B92563?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6&fileType=docx&objectUrl=https%3A%2F%2Fdeakin365.sharepoint.com%2Fsites%2FCSRI-IDENTIFY-Group2%2FShared%20Documents%2FGeneral%2FGuides%2FGuide_PR.AC_FenilPatel.docx&baseUrl=https%3A%2F%2Fdeakin365.sharepoint.com%2Fsites%2FCSRI-IDENTIFY-Group2&serviceName=teams&threadId=19:083bb410c7b54405aa510e355204da69@thread.skype&groupId=9b3f6292-dea5-4167-9bdb-56c751f5b0a3">Guide Template PR.AC</a></li></ul>
-        <h3></h3>
+        <h3>Miscellenous Contributions, Worklog and Evidence</h3>
+        <p>I have also made various contributions towards the project by guiding the junior team members to best achieve their goals. I have also created a manual for the web application but there was a conscious decision from the team to exclude it from the final project showcase and submission at this stage.This section also contains various pieces of evidences and artefacts produced throughout the sprints.</p>
+        
     </body>
 </html>
