@@ -10,6 +10,8 @@
             <li>Strong computer skills with intermediate expertise over various IT systems, Cyber Security Practices, MS office, Networking, programming and report writing.</li>            
         </ul>
         <h2>Project Assets</h2>
+        <h2>Assertion</h2>
+        <p>My contribuiton to the project were mainly in documentation, planning, scripting and recording meeting minutes.</p>
         <p></p>
     </body>
 </html>
