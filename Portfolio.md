@@ -26,8 +26,12 @@
         </ul>
         <h3>NIST Questionnaire Document</h3>
         <p>I wrote and reviewed several sections of the questionnaire document particularly in the project category. The questionnaire is the analytical backbone of the project. The questions were formulated to be a high level overview of different requirements that need to be fulfilled to satisfy a particular sub-category at different levels of efficiency. This is the client facing side of the application and the client responses will be essential to understaning their security posture. I and the rest of our team tried to formulate it in a way that its a high level overview while not compromising on important details on how to satisfy a sub-category requirements. It was important to keep the document clear, concise and to the point in order to correctly and efficiently capture the clients' cyber-security profile.The Questionnaire is not final and after the last review improvements were suggested to make it more accesible and implement some corrections.</p>
+        <ul>
+            <li><a href="https://teams.microsoft.com/l/channel/19%3A083bb410c7b54405aa510e355204da69%40thread.skype/tab%3A%3A5167caff-eab2-4e86-bc50-2c21f060dfcd?groupId=9b3f6292-dea5-4167-9bdb-56c751f5b0a3&tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6">NIST Question Set.Sections PR.AC 4,5,6,7,PR.DS</a></li>
+        </ul>
         <h3>Showcase Contributions and Guide Template</h3>
         <p>Contributed towards writing a script for the showcase as well as other details such as orders and artefacts to be presented in the showcase. I also prepared a guide template for the different questionnaire sections. These guides contain additional information about the controls and subcategories being assessed in the questionnaire document that clients can refer to for free.</p>
+        <ul><li><a href = "https://teams.microsoft.com/l/file/5CD51658-3B9B-4D00-A10B-A7D2C7B92563?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6&fileType=docx&objectUrl=https%3A%2F%2Fdeakin365.sharepoint.com%2Fsites%2FCSRI-IDENTIFY-Group2%2FShared%20Documents%2FGeneral%2FGuides%2FGuide_PR.AC_FenilPatel.docx&baseUrl=https%3A%2F%2Fdeakin365.sharepoint.com%2Fsites%2FCSRI-IDENTIFY-Group2&serviceName=teams&threadId=19:083bb410c7b54405aa510e355204da69@thread.skype&groupId=9b3f6292-dea5-4167-9bdb-56c751f5b0a3">Guide Template PR.AC</a></li></ul>
         <h3></h3>
     </body>
 </html>
