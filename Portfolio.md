@@ -38,9 +38,14 @@
         <p>I have also made various contributions towards the project by guiding the junior team members to best achieve their goals. I have also created a manual for the web application but there was a conscious decision from the team to exclude it from the final project showcase and submission at this stage. I also helped to create the handover review document which reiterated the goals of our project and any quality of life changes to the project in the coming sprints.This section also contains various pieces of evidences and artefacts produced throughout the sprints.</p>
         <figure><img src = "Evidence/Evidence1.jpg"><figcaption><b>Clockify Summary Report</b></figcaption></figure>
         <figure><img src = "Evidence/evidence2.jpg"><figcaption><b>Draft Manual</b></figcaption></figure>
-        <br>
-        <a href ="https://teams.microsoft.com/l/file/36391271-86f6-419d-b7e5-712daccc84fd?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6&fileType=docx&objectUrl=https%3A%2F%2Fdeakin365-my.sharepoint.com%2Fpersonal%2Fzhangrongb_deakin_edu_au%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FSIT302%20Review%20-%20CSRI%20NIST.docx&baseUrl=https%3A%2F%2Fdeakin365-my.sharepoint.com%2Fpersonal%2Fzhangrongb_deakin_edu_au%2F&serviceName=p2p&threadId=19:79bea22897d14511a6bf1159e52afdde@thread.v2"><b>Sprint Review Document</b></a>
-        <br>
-        <a href = "http://www.sitidentify.live"><b>Deakin Cyber security Consultancy Website</b></a><p>Disclaimer: I personally was not involved in programming the website. My interactions with the website were limited to crafting a manual and developing understanding of how the web application would work.</p>
+        <dl>
+            <dt>Important Links</dt>
+            <dd>
+                <a href ="https://teams.microsoft.com/l/file/36391271-86f6-419d-b7e5-712daccc84fd?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6&fileType=docx&objectUrl=https%3A%2F%2Fdeakin365-my.sharepoint.com%2Fpersonal%2Fzhangrongb_deakin_edu_au%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FSIT302%20Review%20-%20CSRI%20NIST.docx&baseUrl=https%3A%2F%2Fdeakin365-my.sharepoint.com%2Fpersonal%2Fzhangrongb_deakin_edu_au%2F&serviceName=p2p&threadId=19:79bea22897d14511a6bf1159e52afdde@thread.v2"><b>Sprint Review Document</b></a>
+            </dd>
+            <dd>
+                <a href = "http://www.sitidentify.live"><b>Deakin Cyber security Consultancy Website</b></a><p>Disclaimer: I personally was not involved in programming the website. My interactions with the website were limited to crafting a manual and developing understanding of how the web application would work.</p>
+            </dd>
+        </dl>
     </body>
 </html>
