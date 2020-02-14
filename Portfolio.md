@@ -20,8 +20,9 @@
         </p>
         <h2>Personal Contributions</h2>
         <h3>Meeting Minutes</h3>
-        <p>I have punctually attended all teh meetings and recorded important details being discussed during those meetings. The recorded meeting minutes provided a rundown of the overall progress of the project, the doubts that need to be cleared, overall project direction, updates as well as feedback. The meeting minutes have played an important role in planning weekly activities, setting out immediate targets as well as removing blockers in the project development.</p>
+        <p>I have punctually attended all the meetings and recorded important details being discussed. The recorded meeting minutes provided a rundown of the overall progress of the project, the doubts that need to be cleared, overall project direction, updates as well as feedback. The meeting minutes have played an important role in planning weekly activities, setting out immediate targets as well as removing blockers in the project development.</p>
         <h3>NIST Questionnaire Document</h3>
+        <p>Wrote and reviewed several sections of the questionnaire document particularly in the project category. The questionnaire is the analytical backbone of the project. The questions were formulated to be a high level overview of different requirements that need to be fulfilled to satisfy a particular sub-category at different levels of efficiency. This is the client facing side of the application and the client responses will be essential to understaning their security posture. I and the rest of our team tried to formulate it in a way that its a high level overview while not compromising on important details on how to satisfy a sub-category requirements. It was important to keep the document clear, concise and to the point in order to correctly and efficiently capture the clients' cyber-security profile.The Questionnaire is not final and after the last review improvements were suggested to make it more accesible and implement some corrections.</p>
         <h3>Showcase Contributions</h3>
         <h3></h3>
     </body>
