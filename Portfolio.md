@@ -18,5 +18,10 @@
         <p>
         The goal of our project was to remove the high price of entry for a professional services aimed towards mid-scale Australian businesses. As a result of Deakin running with the project, better equipped cyber security professionals will be graduating, and businesses will benefit from quality and affordable consultations. 
         </p>
+        <h2>Personal Contributions</h2>
+        <h3>Meeting Minutes</h3>
+        <h3>NIST Questionnaire Document</h3>
+        <h3>Showcase Contributions</h3>
+        <h3></h3>
     </body>
 </html>
